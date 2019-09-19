@@ -1,4 +1,4 @@
-package com.cmz.linkedlist;
+package com.cmz.collection;
 
 /**
  * @author chen.mz

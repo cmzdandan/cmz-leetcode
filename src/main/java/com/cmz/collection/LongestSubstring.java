@@ -1,4 +1,4 @@
-package com.cmz.linkedlist;
+package com.cmz.collection;
 
 import java.util.ArrayList;
 import java.util.HashMap;
